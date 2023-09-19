@@ -10,7 +10,7 @@ export default function Destination(){
         <Header/>
         <Destinationnav/>
 
-        <div className="text-white text-2xl pl-[15%] pt-24">
+        <div className="text-white text-2xl pl-[15%] pt-[5%]">
             <h1><span className="pr-[2%] text-[rgb(195,194,181)]">01</span>PICK YOUR DESTINATION</h1>
         </div>
 
